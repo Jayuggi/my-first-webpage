@@ -13,4 +13,4 @@ Jeffrey A. and Mark M.
 --2 Ensure you have a web browser installed
 --3 Open using browser
 ##H2 Licensing Information
-This code features a MIT license. It is free for all to use without need for permission.
+This code features a MIT license. It is free for all to use without need for permission from the developers.
